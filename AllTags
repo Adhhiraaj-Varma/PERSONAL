@@ -1,0 +1,98 @@
+<html>
+    <body>
+        <style>
+            .centertext{
+text-align: center;
+            }
+            ol{
+                list-style-type:none;
+            }
+            .fstuff{
+                text-align: center;
+            }
+            #right{
+                float: right;
+            }
+            ul{
+                list-style-type:none;
+            }
+            .contents{
+                text-align: center;
+                color:rgb(239, 97, 97)
+            }
+            
+            .link-a{
+                color:skyblue;
+            }
+            a{
+                text-decoration: none;
+            }
+#title{
+    text-align: center;
+    font-family: "didot";
+}
+body{font-family: "didot";}
+#left{
+    text-align:left
+}
+#center{
+    text-align: center;
+}
+#right-a{
+    text-align:right;
+}
+        </style>
+        <title>TimePass</title>
+        <h1 id="title">Welcome to the Timepass Page</h1>
+        <p>So here I don't really do anything I just sit around and type useless things to see if I can type faster than the worlds faster typer and then I just keep wanting more and then out of a sudden I dont even stop!</p>
+        <br>
+        <p>......... I know that was really a lot to see so forget it</p>
+        <p>Imma just test out whatever I know in html</p>
+        <h1 class="Contents"><div id="upredirect">Contents</h1></div>
+        <ul>
+       <li class="Contents"><a href="#images">Images</li></a>
+       <li class="Contents"><a href="#comments">Comments</li></a>
+       <li class="Contents"><a href="#textf">Text Formatting</li></a>
+       <li class="Contents"><a href="#links">Links</li></a>
+       <li class="Contents"><a href="FRS">Font Related Stuff</li></a>
+       <li class="Contents"><a href="buttons">Buttons!</li></a>
+       <li class="Contents">And More</li>
+        </ul>
+       <div class="Contents"><b>Be Sure to Stick around</b></div>
+        <h1 id="images">Images</h1>
+        <img src="https://indiabioscience.org/imager/articles/411714/Aniruddha_feature-image_4b32b63c5c28c858e051e9d1a2a717a1.png" alt="Some Image">
+        <img src="https://cdn.ebaumsworld.com/mediaFiles/picture/2452130/85370574.jpg" alt="Some Image">
+        <img src="https://i.pinimg.com/564x/97/dc/47/97dc47888bb8dfb4effd8b072cc1e807.jpg" alt="still some images">
+        <h1 id="comments">Comments</h1>
+        <pa>here I will type stuff on the (on the file)page like extra information but it won't be visibleon the webpage</pa>
+       <p> <! --YO Guys wasssup i don't really know what to type so I am juts typing some shizzz
+        and oh no that typing fever is back....Moving on--></p>
+        <h1 id="textf">Text Formatting</h1>
+        <h2>1.Centering</h2>
+        <div id="left">This is on the <br><strong>Left</strong></div>
+        <div id="center">This is in the<br><strong>Center</strong></div> 
+        <div id="right-a">This is on the<br><strong>Right</strong></div>
+        <p>That is pretty much it about cnetering text <br>Moving on to Links!</p>
+        <br>
+        <br>
+        <br>
+        <h1 id="links">Links</h1>
+        <p>Links are nothing special just text.... That when you click on it, it takes you to a new webpage!</p>
+        <a target=_blank href="https://adi.varma.co"><h3 class="link-a">This is My Website</h3></a>
+        <a target=_blank href="https://ithink.co"><h3 class="link-a">This is My Dad's Website</h3></a>
+        <a target=_blank href="https://sumeera.varma.co"><h3 class="link-a">This is My Mom's Website</h3></a>
+        <h1 class="centertext">Font Related Stuff</h1>
+        <br>
+        <ol>
+       <a href="FColor"><li class="fstuff"><h3>Font Color</h3></li></a>
+       <a href="FSize"><li class="fstuff"><h3>Font Size</h3></li></a>
+       <a href="FWeight"><li class="fstuff"><h3>Font Weight</h3></li></a>
+       <a href="FFamily"><li class="fstuff"><h3>Font Family</h3></li></a>
+       <a href="FFamily"><li class="fstuff"><h3>Font Family</h3></li></a>
+
+
+    </ol>
+    <a href="#upredirect"> <img src="https://static.vecteezy.com/system/resources/previews/012/493/998/original/up-arrow-simple-symbol-with-transparent-background-png.png"
+        id="right"alt="Go Up "width="50" height="77"></a>
+        </body>
+</html>
